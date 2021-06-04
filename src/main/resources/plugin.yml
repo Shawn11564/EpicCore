@@ -1,0 +1,8 @@
+name: EpicCore
+version: ${project.version}
+main: dev.mrshawn.epiccore.EpicCore
+api-version: 1.16
+prefix: EpicCore
+authors: [ MrShawn ]
+description: Core plugin for all epic series plugins
+website: https://mrshawn.dev/
